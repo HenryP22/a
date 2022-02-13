@@ -1,0 +1,8 @@
+body{
+	background: url('../img/fondo.jpg');
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #2596be;
+}
